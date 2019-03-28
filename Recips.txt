@@ -4,3 +4,6 @@ roll
 cake
 apple
 orange
+mango9
+juice
+choclate

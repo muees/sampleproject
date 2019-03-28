@@ -4,3 +4,7 @@ roll
 cake
 apple
 orange
+choclate
+mango
+banana
+juice
